@@ -1,0 +1,2 @@
+TC001: Power ON - PASS
+TC002: Battery checks - PASS
