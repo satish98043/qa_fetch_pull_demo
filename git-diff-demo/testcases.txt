@@ -1,2 +1,3 @@
 TC001: Power ON - PASS
 TC002: Battery checks - PASS
+TC003: Display checks - FAIL
